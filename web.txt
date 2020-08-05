@@ -1,0 +1,18 @@
+Web
+	front-end
+		HTMl
+		CSS
+			Bootstrap
+			Sass
+		JS
+			react
+			angular
+			vue
+	
+	backend
+		PHP
+		Nodejs
+	
+	Database
+		mysql
+		
